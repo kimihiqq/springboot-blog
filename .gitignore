@@ -142,4 +142,8 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+## Ignore application.yml
+#application.yml
+
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,java,gradle
