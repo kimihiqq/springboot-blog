@@ -1,2 +1,1 @@
-http://springboot-blog-env.eba-mt26wzyw.ap-northeast-2.elasticbeanstalk.com/login
-
+# 해당 프로젝트는 아래 주소의 repository로 이동되었습니다!
